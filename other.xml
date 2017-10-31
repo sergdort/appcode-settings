@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/Xcode.xml" />
+  </component>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode-9.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode-9.app/Contents/Developer" />
+      </list>
+    </option>
+  </component>
+</application>
