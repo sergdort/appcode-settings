@@ -41,8 +41,8 @@
         <entry key="*.asm">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -203,8 +203,8 @@
         <entry key="*.doxygen">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -284,8 +284,8 @@
         <entry key="*.gdbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.base" />
+              <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -338,8 +338,8 @@
         <entry key="*.hmap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -419,8 +419,8 @@
         <entry key="*.imageset">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -437,8 +437,8 @@
         <entry key="*.intentdefinition">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -644,8 +644,8 @@
         <entry key="*.lldbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.base" />
+              <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -680,8 +680,8 @@
         <entry key="*.metal">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -707,8 +707,8 @@
         <entry key="*.modulemap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -716,8 +716,8 @@
         <entry key="*.nib">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -761,8 +761,8 @@
         <entry key="*.pbxproj">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -770,8 +770,8 @@
         <entry key="*.pbxuser">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -995,8 +995,8 @@
         <entry key="*.storyboard">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1031,8 +1031,8 @@
         <entry key="*.swift">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.swift.lang" />
+              <option name="myPluginName" value="Swift Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1175,8 +1175,8 @@
         <entry key="*.xcassets">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1184,8 +1184,8 @@
         <entry key="*.xcconfig">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1193,8 +1193,8 @@
         <entry key="*.xcdatamodeld">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1202,8 +1202,8 @@
         <entry key="*.xcodeproj">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1211,8 +1211,8 @@
         <entry key="*.xcworkspace">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1220,8 +1220,8 @@
         <entry key="*.xcworkspacedata">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1463,8 +1463,8 @@
         <entry key="Contents.json">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1472,8 +1472,8 @@
         <entry key="Podfile">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.intellij.appcode" />
+              <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1559,12 +1559,12 @@
                   </entry>
                   <entry key="AppleAppExtensionRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Application Extension" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Application Extension" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
                     </value>
                   </entry>
                   <entry key="AppleRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Application" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Application" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -1629,7 +1629,7 @@
                   </entry>
                   <entry key="OCUnitRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="XCTest" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="XCTest" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -1644,12 +1644,12 @@
                   </entry>
                   <entry key="SwiftPackageManagerRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Swift Package Run" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Swift Package Run" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
                     </value>
                   </entry>
                   <entry key="SwiftPackageManagerTestRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Swift Package Test" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Swift Package Test" pluginName="AppCode IDE" pluginId="com.intellij.appcode" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
