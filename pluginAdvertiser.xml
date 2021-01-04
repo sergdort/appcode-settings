@@ -110,6 +110,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.class">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.kotlinNative.platformDeps" />
+              <option name="myPluginName" value="Kotlin/Native Platform Dependencies" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.coffee">
           <value>
             <plugin>
@@ -161,6 +169,14 @@
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.def">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
             </plugin>
           </value>
         </entry>
@@ -519,6 +535,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.java">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.kotlinNative.platformDeps" />
+              <option name="myPluginName" value="Kotlin/Native Platform Dependencies" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jbig2">
           <value>
             <plugin>
@@ -672,6 +696,71 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.kjsm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.klib">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.knm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.kotlin_builtins">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.kotlin_metadata">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.kotlin_module">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.kt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.kts">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.kotlin.native.appcode" />
+              <option name="myPluginName" value="Kotlin/Native for AppCode" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.less">
           <value>
             <plugin>
@@ -732,6 +821,14 @@
               <option name="myPluginId" value="com.intellij.appcode" />
               <option name="myPluginName" value="AppCode IDE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.kotlinNative.platformDeps" />
+              <option name="myPluginName" value="Kotlin/Native Platform Dependencies" />
             </plugin>
           </value>
         </entry>
@@ -1029,6 +1126,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.snippet">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.kotlinNative.platformDeps" />
+              <option name="myPluginName" value="Kotlin/Native Platform Dependencies" />
             </plugin>
           </value>
         </entry>
@@ -1738,7 +1843,37 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="kotlin-language">
+                    <value>
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin/Native for AppCode" pluginId="org.jetbrains.kotlin.native.appcode" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
+          </value>
+        </entry>
+        <entry key="com.intellij.packaging.artifacts.ArtifactType">
+          <value>
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="jar">
+                    <value>
+                      <FeaturePluginData displayName="JAR" pluginName="Kotlin/Native Platform Dependencies" pluginId="com.intellij.kotlinNative.platformDeps" />
+                    </value>
+                  </entry>
+                  <entry key="plain">
+                    <value>
+                      <FeaturePluginData displayName="Other" pluginName="Kotlin/Native Platform Dependencies" pluginId="com.intellij.kotlinNative.platformDeps" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
