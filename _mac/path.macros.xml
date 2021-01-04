@@ -1,5 +1,5 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/Users/sergdort/Library/Application Support/JetBrains/AppCode2020.2/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/sergdort/Library/Application Support/JetBrains/Toolbox/apps/AppCode/ch-1/202.8194.20/AppCode.app.plugins/Kotlin/kotlinc" />
   </component>
 </application>
